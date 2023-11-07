@@ -1,8 +1,11 @@
-# React + Vite
+### **Movie Explorer**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- **API:** [The Movie Database API](https://www.themoviedb.org/documentation/api)
+- **Features:**
+  - Search and display movie details (poster, cast, release date, etc.).
+  - Show trending, upcoming, and top-rated movies.
+  - Allow users to mark movies as favorites and store this data using local storage.
 
-Currently, two official plugins are available:
+--A beginner project from me doing my first steps in javascript, and fetching data--
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Click [here](https://kostasbzn.github.io/Movie_explorer_beginnerEdition_using_React/) to visit the website.
